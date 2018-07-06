@@ -6,5 +6,8 @@ Zubehör: RaspberryPi 3B | Kuman Smart Car - für die Hardware, wobei die dazu g
 stand 07.2018 </br>
 Fahrzeug kann auf Konsolen Befehl geradeaus, rückwärts, links und rechts fahren.
 "Zur Darstellung fährt das auto in die Eingebebene Richtung nur 3 Sekunden und bleibt dann stehen"
+</br>
+Hinweis: Ultraschall abstandsmessung ist programmiert aber die Funktion wurde noch nicht getestet!
+</br>
 
 Weitere Funktionen folgen!
